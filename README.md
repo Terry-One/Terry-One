@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [ACM SIGSOFT Empirical Standards](https://github.com/acmsigsoft/EmpiricalStandards)
 
-- 👯 I’m also collaborating on [Brain Tagger Web React Game](https://github.com/briannej/cognitive-centivizer)
+- 👯 I’m also collaborating on a React Web Game named **BrainTagger**
 
 -  🌱 I’m currently learning **TypeScript, Django and React**
 
