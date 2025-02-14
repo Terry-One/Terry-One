@@ -4,10 +4,6 @@
 - 🎓 Master Education: Master of Engineering in Mechanical and Industrial Engineering with an emphasis in Data Analytics and Machine Learning, University of Toronto
 - 🎓 Bachelor Education: Bachelor of Science in Computer Engineering with Distinction, University of Alberta
 
-- 🔭 I’m currently working on [ACM SIGSOFT Empirical Standards](https://github.com/acmsigsoft/EmpiricalStandards)
-
-- 👯 I’m also collaborating on a React Web Game named **BrainTagger**
-
 -  🌱 I’m currently learning **TypeScript, Django and React**
 
 - 📫 How to reach me **terry.one@outlook.com**
